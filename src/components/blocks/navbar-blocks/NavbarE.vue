@@ -35,7 +35,11 @@ const navbarClasses = computed(() => [
         <div class="navbar-center">
           <div class="centered-brand">
             <RouterLink :to="{ name: 'index' }" class="navbar-item">
-              <img class="navbar-logo" src="/assets/logo/logo.svg" alt="logo" />
+              <img
+                class="navbar-logo"
+                src="/assets/logo/LuwiLight.svg"
+                alt="logo"
+              />
               <span class="is-sr-only">Vulk</span>
             </RouterLink>
           </div>

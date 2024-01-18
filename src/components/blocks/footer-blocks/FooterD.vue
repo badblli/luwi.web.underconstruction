@@ -218,7 +218,7 @@ const footerClasses = computed(() => [
             >
               <img
                 class="size-44x44"
-                src="/assets/logo/logo.svg"
+                src="/assets/logo/LuwiLight.svg"
                 alt="Footer logo"
               />
               <span class="is-sr-only">Logo</span>

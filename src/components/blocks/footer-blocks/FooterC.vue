@@ -42,7 +42,7 @@ const footerClasses = computed(() => [
             <a class="footer-logo-left css-ninja" href="#">
               <img
                 class="size-44x44"
-                src="/assets/logo/logo.svg"
+                src="/assets/logo/LuwiLight.svg"
                 alt="Footer logo"
               />
               <span class="is-sr-only">Footer logo</span>

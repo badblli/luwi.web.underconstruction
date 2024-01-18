@@ -12,18 +12,18 @@ useHead({
     {
       rel: 'icon',
       type: 'image/svg+xml',
-      href: '/assets/logo/logo.svg',
+      href: '/assets/logo/LuwiLight.svg',
     },
     {
       rel: 'alternate icon',
-      href: '/assets/logo/logo.svg',
+      href: '/assets/logo/LuwiLight.svg',
       // href: '/favicon.ico',
       type: 'image/x-icon',
     },
     {
       rel: 'apple-touch-icon',
       // href: '/apple-touch-icon.png',
-      href: '/assets/logo/logo.svg',
+      href: '/assets/logo/LuwiLight.svg',
     },
   ],
   meta: [
@@ -52,7 +52,7 @@ useHead({
   <ClientOnly>
     <!-- <ReloadPrompt app-name="Vulk"> -->
     <template #logo>
-      <img src="/assets/logo/logo.svg" alt="logo" width="80" height="80" />
+      <img src="/assets/logo/LuwiLight.svg" alt="logo" width="80" height="80" />
     </template>
     <!-- </ReloadPrompt> -->
   </ClientOnly>

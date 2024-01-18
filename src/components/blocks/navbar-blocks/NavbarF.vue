@@ -51,7 +51,11 @@ const navbarMenuClasses = computed(() => [isNavbarOpen.value && `is-active`])
     <div class="container">
       <div class="navbar-brand">
         <RouterLink :to="{ name: 'index' }" class="navbar-item">
-          <img class="navbar-logo" src="/assets/logo/logo.svg" alt="logo" />
+          <img
+            class="navbar-logo"
+            src="/assets/logo/LuwiLight.svg"
+            alt="logo"
+          />
           <span class="is-sr-only">Vulk</span>
         </RouterLink>
         <div
@@ -71,7 +75,7 @@ const navbarMenuClasses = computed(() => [isNavbarOpen.value && `is-active`])
         <div class="navbar-start">
           <div class="left-brand">
             <RouterLink :to="{ name: 'index' }" class="navbar-item">
-              <img src="/assets/logo/logo.svg" alt="logo" />
+              <img src="/assets/logo/LuwiLight.svg" alt="logo" />
               <span class="is-sr-only">Vulk</span>
             </RouterLink>
           </div>

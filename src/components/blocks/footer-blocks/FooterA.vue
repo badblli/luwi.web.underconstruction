@@ -62,7 +62,7 @@ const footerClasses = computed(() => [
           <RouterLink class="footer-logo-centered" :to="{ name: 'index' }">
             <img
               class="is-block size-44x44"
-              src="/assets/logo/logo.svg"
+              src="/assets/logo/LuwiLight.svg"
               alt="Footer logo"
             />
             <span class="is-sr-only">Logo</span>

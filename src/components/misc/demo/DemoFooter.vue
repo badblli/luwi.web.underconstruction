@@ -5,7 +5,11 @@
     <div class="container">
       <div class="footer-flex">
         <div class="listkit">
-          <img class="logo" src="/assets/logo/logo.svg" alt="Footer Logo" />
+          <img
+            class="logo"
+            src="/assets/logo/LuwiLight.svg"
+            alt="Footer Logo"
+          />
           <img
             class="vulk-logo"
             src="/assets/logo/vulk-text-white.svg"
