@@ -72,7 +72,7 @@ const src = computed(() =>
           </Button> -->
           <Button
             icon-left="feather:instagram"
-            href="https://www.instagram.com/prospot.wifi/"
+            href="https://www.instagram.com/protalya_/"
             :long="3"
             outlined
             bold
